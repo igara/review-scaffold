@@ -37,4 +37,4 @@ Run commands at project root.
   - [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/) Available
     - set `master branch /docs folder` for GitHub Pages source
     - ex. https://kokuyouwind.github.io/review-scaffold/
-- `./bin/review` for check textlint.
+- `./bin/lint` for check textlint.
