@@ -38,3 +38,18 @@ Run commands at project root.
     - set `master branch /docs folder` for GitHub Pages source
     - ex. https://kokuyouwind.github.io/review-scaffold/
 - `./bin/lint` for check textlint.
+
+## EditerSetting
+
+- Use: VSCode
+- Extentions: yet another Re:VIEW extension
+- GraphTool:
+  - gnuplot
+    - http://mashiroyuya.hatenablog.com/entry/installgnuplot
+  - graphviz
+    - https://dev.classmethod.jp/tool/graphviz-beginner/
+  - aafigure
+    - http://ftparmy.com/198478-aafigure.html
+    - ↑ # python setup.py install
+  - blockdiag
+    - # pip install blockdiag
