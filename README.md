@@ -39,7 +39,7 @@ Run commands at project root.
     - ex. https://kokuyouwind.github.io/review-scaffold/
 - `./bin/lint` for check textlint.
 
-## EditerSetting
+## EditorSetting
 
 - Use: VSCode
 - Extentions: yet another Re:VIEW extension
