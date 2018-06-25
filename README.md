@@ -50,6 +50,6 @@ Run commands at project root.
     - https://dev.classmethod.jp/tool/graphviz-beginner/
   - aafigure
     - http://ftparmy.com/198478-aafigure.html
-    - ↑ # python setup.py install
+    - ↑ python setup.py install
   - blockdiag
-    - # pip install blockdiag
+    - pip install blockdiag
